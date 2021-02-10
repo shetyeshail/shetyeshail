@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 😄 Pronouns: he/him/his
+- 🌱 I’m currently trying to learn Rust
+- 📫 How to reach me: via email at shetyeshail@gmail.com
 <!--
 **shetyeshail/shetyeshail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
